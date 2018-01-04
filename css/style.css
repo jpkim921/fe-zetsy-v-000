@@ -57,11 +57,7 @@ img {
 }
 
 img:hover {
-
-	border: 5px solid #00B2CE;
-/*=======
-	border: 5px solid #CBCBCB;
->>>>>>> 0fb64d010a11ca035582d76e4437a0e0c9fdecbf*/
+  border: 5px solid #00B2CE;
 }
 
 /* #9CACA6 */
